@@ -112,6 +112,7 @@ main {
 
 .content-feature.on {
     display: block;
+    transition: 0.3s;
 }
 
 .content-feature .inner {
